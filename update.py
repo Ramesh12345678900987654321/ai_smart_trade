@@ -8,10 +8,10 @@ import time
 # -----------------------------
 # Login
 # -----------------------------
-API_KEY = "G05ydKtV"
-CLIENT_ID = "AACI674575"
-PASSWORD = "2006"
-TOTP = "ZP3KW65O2M4HLAOM2QYKQVX3OI"
+API_KEY = ""
+CLIENT_ID = ""
+PASSWORD = ""
+TOTP = ""
 
 obj = SmartConnect(api_key=API_KEY)
 
