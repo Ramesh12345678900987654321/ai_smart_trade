@@ -10,10 +10,10 @@ CORS(app)
 # -----------------------------
 # Login
 # -----------------------------
-API_KEY = "G05ydKtV"
-CLIENT_CODE = "AACI674575"
-PIN = "2006"
-TOTP = "ZP3KW65O2M4HLAOM2QYKQVX3OI"
+API_KEY = ""
+CLIENT_CODE = ""
+PIN = ""
+TOTP = ""
 
 obj = SmartConnect(api_key=API_KEY)
 
